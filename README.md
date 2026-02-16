@@ -1,6 +1,6 @@
-📌 Full-Stack React + Node.js Application
+📌 SALES ANALYTICS DASHBOARD-FULL STACK APPLICATION
 🚀 Project Overview
-This is a full-stack web application built using **React ** for the frontend and Node.js (Express) for the backend. The project follows a scalable and maintainable architecture, ensuring clean code and easy development.
+Interactive Sales Analutics Dashboard built using React.js and Node.js to visualize revenue trends,product performance and Sales insightsThis is a full-stack web application built using **React ** for the frontend and Node.js (Express) for the backend. The project follows a scalable and maintainable architecture, ensuring clean code and easy development.
 
 🏗️ Project Structure
 /project-root
